@@ -397,7 +397,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 115523](https://github.com/user-attachments/assets/03eac12a-c1ce-4ea3-a8e8-6c2e13972887)
 
 </p>
 <p>
@@ -407,7 +407,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 115635](https://github.com/user-attachments/assets/e308e66f-b43d-4e9d-a280-b9aa1216f1ee)
 
 </p>
 <p>
@@ -417,7 +417,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 115644](https://github.com/user-attachments/assets/d71aeb26-1a4f-4f37-abd8-5d695def153e)
 
 </p>
 <p>
@@ -427,7 +427,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 115805](https://github.com/user-attachments/assets/a397c31d-21fe-40b6-8e43-60c81b980672)
 
 </p>
 <p>
@@ -437,7 +437,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 115848](https://github.com/user-attachments/assets/441841b2-36b3-4998-a027-c46172af9cf6)
 
 </p>
 <p>
@@ -447,7 +447,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 115946](https://github.com/user-attachments/assets/de48fd0a-1d0e-4146-abe2-df9517e79392)
 
 </p>
 <p>
@@ -457,7 +457,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 115955](https://github.com/user-attachments/assets/c3b6f89e-4c21-447c-a088-6d2b9e64ef93)
 
 </p>
 <p>
@@ -467,7 +467,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 120211](https://github.com/user-attachments/assets/eac461a5-711a-4591-bc27-eaebb3c5e708)
 
 </p>
 <p>
@@ -477,31 +477,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-10 120216](https://github.com/user-attachments/assets/1a30e6a4-f769-4947-b35d-15204db8e579)
 
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
-<p>
-  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
