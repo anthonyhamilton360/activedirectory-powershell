@@ -16,13 +16,14 @@ This tutorial explores deploying an Active Directory environment, from creation 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows Server 2022
 
-<h2>List of Prerequisites</h2>
+<h2>High-Level Deployment and Configuration Steps</h2>
 
 - Setup Remote Desktop for non-administrative users on Client-1 
 - Create users and attempt to log into client-1 with one of the users
 
-<h2>Stes</h2>
+<h2>Configuration Steps</h2>
 
 <p>
   
