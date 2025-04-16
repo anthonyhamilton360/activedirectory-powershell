@@ -261,7 +261,7 @@ Select Yes.
 
 </p>
 <p>
-Once I have successfully logged in as lil.jof, I opened upcommand prompt to verify.
+Once I have successfully logged in as lil.jof, I opened command prompt to verify.
 </p>
 <br />
 
@@ -291,7 +291,7 @@ Because lil.jof isn't an admin, he cannot access the labuser folder.
 
 </p>
 <p>
-To conclude this lab,go to Azure and in the virtual machines section select both vms and stop them by selecting the three dots on the top right.
+To conclude this lab, go to Azure and in the virtual machines section select both vms and stop them by selecting the three dots on the top right.
 </p>
 <br />
 
