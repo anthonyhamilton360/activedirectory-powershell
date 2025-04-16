@@ -301,6 +301,6 @@ To conclude this lab, go to Azure and in the virtual machines section select bot
 
 </p>
 <p>
-Select Yes.
+To conclude this lab, select Yes.
 </p>
 <br />
