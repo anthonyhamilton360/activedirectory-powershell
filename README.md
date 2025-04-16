@@ -161,7 +161,7 @@ In Windows Powershell ISE, click on the arrow drop down next to script.
 
 </p>
 <p>
-Ten thousand random users with the password Password1 will be created by the script I used.
+Ten thousand random users with the password of Password1 will be created by the script I used.
 </p>
 <br />
 
